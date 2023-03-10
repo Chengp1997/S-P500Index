@@ -6,6 +6,10 @@ demo link: https://dashapp-btzsxgtkzq-ue.a.run.app/
 
 ![image-20230309160652838](images/image-20230309160652838.png)
 
+![image-20230310014813960](images/image-20230310014813960.png)
+
+![image-20230310014837296](images/image-20230310014837296.png)
+
 ## Environment
 
 **IDE: ** Pycharm
